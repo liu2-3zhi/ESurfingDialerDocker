@@ -1,3 +1,5 @@
+此项目已废弃，请移步到新项目。https://github.com/BadGhost520/ESurfingClient-CVersion
+
 # 适用于广东天翼校园网的docker容器自动认证方案
 
 ## 主要维护者
